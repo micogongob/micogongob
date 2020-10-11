@@ -1,26 +1,22 @@
-<h1 align='center'>Hello there! :bearded_person:</h1>
+# Hello there! :bearded_person:
 
-<p align='center'>
-  I'm Mico. You can reach me at <a href="https://www.linkedin.com/in/mc-54321/">Linkedin</a>.
-</p>
+I'm Mico. You can reach me at [Linkedin.](https://www.linkedin.com/in/mc-54321/)
 
-<div align='center'>
-  <h2>GitHub Stats</h2>
-  
-  <a href="https://github.com/micogongob/micogongob">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&layout=compact&theme=graywhite"
-    />
-  </a>
+## GitHub Stats
 
-  <a href="https://github.com/micogongob/micogongob">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite"
-    />
-  </a>
-</div>
+<a href="https://github.com/micogongob/micogongob">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&layout=compact&theme=graywhite"
+  />
+</a>
+
+<a href="https://github.com/micogongob/micogongob">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite"
+  />
+</a>
 
 <h1 align='center'><i>Have a beautiful day!</i></h1>
 
