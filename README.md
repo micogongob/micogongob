@@ -1,4 +1,4 @@
-# Hello there! :bearded_person
+# Hello there! :bearded_person:
 
 I'm Mico. You can reach me at [Linkedin.](https://www.linkedin.com/in/mc-54321/)
 
