@@ -1,8 +1,5 @@
 # Hello there! :bearded_person
 
-
-![Profile views](https://gpvc.arturio.dev/micogongob)
-
 I'm Mico. You can reach me at [Linkedin.](https://www.linkedin.com/in/mc-54321/)
 
 ## GitHub Stats
