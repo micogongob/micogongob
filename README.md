@@ -1,6 +1,8 @@
-# Hello there &#129492;
+<h1 align='center'>Hello there! :man_beard:</h1>
 
-I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
+<p align='center'>
+  I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
+</p>
 
 <div align='center'>
   <h2>GitHub Stats</h2>
@@ -19,9 +21,6 @@ I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
     />
   </a>
 </div>
-
-## &#x1f4c8; GitHub Stats
-
 
 <h1 align='center'><i>Have a beautiful day!</i></h1>
 
