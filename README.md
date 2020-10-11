@@ -5,21 +5,21 @@
 <a href="https://github.com/micogongob/micogongob">
   <img 
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&layout=compact&theme=graywhite"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&layout=compact&theme=vue-dark"
   />
 </a>
 
 <a href="https://github.com/micogongob/micogongob">
   <img 
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite"
+    src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=vue-dark"
   />
 </a>
 
 <a href="https://github.com/micogongob/micogongob">
   <img 
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=graywhite"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=vue-dark"
   />
 </a>
 
