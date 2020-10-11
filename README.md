@@ -1,4 +1,4 @@
-# Hello there! :bearded_person:
+# Hello there! :bearded_person
 
 I'm Mico. You can reach me at [Linkedin.](https://www.linkedin.com/in/mc-54321/)
 
@@ -19,6 +19,8 @@ I'm Mico. You can reach me at [Linkedin.](https://www.linkedin.com/in/mc-54321/)
 </a>
 
 <h1><i>Have a beautiful day!</i></h1>
+
+![Profile views](https://gpvc.arturio.dev/micogongob)
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
