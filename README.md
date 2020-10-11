@@ -1,7 +1,7 @@
-<h1 align='center'>Hello there! :man_beard:</h1>
+<h1 align='center'>Hello there! :bearded_person:</h1>
 
 <p align='center'>
-  I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
+  I'm Mico. You can reach me at <a href="https://www.linkedin.com/in/mc-54321/">Linkedin</a>.
 </p>
 
 <div align='center'>
