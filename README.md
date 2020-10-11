@@ -1,5 +1,9 @@
 # Hello there &#129492;
 
+I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
+
+# Have a Good Day!
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/micogongob/micogongob">
