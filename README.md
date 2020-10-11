@@ -2,8 +2,6 @@
 
 I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
 
-# Have a Good Day!
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/micogongob/micogongob">
@@ -19,6 +17,8 @@ I'm Mico. You can reach me at [Linkedin](https://www.linkedin.com/in/mc-54321/)
     src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite"
   />
 </a>
+
+# Have a beautiful day!
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
