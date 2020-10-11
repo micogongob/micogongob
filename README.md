@@ -2,9 +2,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=vue-dark)
-
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=vue-dark)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=vue-dark)
 
 
 <!--
