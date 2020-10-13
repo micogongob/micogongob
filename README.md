@@ -1,11 +1,6 @@
 ## GitHub Stats
 
-<a href="https://github.com/micogongob/micogongob">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&layout=compact&theme=graywhite"
-  />
-</a>
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=graywhite)
 
 <a href="https://github.com/micogongob/micogongob">
   <img
