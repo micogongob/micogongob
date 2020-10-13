@@ -2,12 +2,7 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=graywhite)
 
-<a href="https://github.com/micogongob/micogongob">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite"
-  />
-</a>
+![My Github status](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=graywhite)
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
