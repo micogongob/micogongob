@@ -1,4 +1,6 @@
-## GitHub Stats
+<img src="icon.png" align="right" />
+
+# GitHub Stats
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=graywhite)
 
