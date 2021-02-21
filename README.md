@@ -1,13 +1,13 @@
-## GitHub Stats
+## find me at
+- [LinkedIn](https://linkedin.com/in/mgongob/)
+- [Hacker Noon](https://hackernoon.com/u/micogongob)
+- [Personal Blog](https://micogongob.com)
+
+## github stats
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=solarized-dark)
 
 ![My Github status](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=solarized-dark)
-
-### Find Me At
-- [LinkedIn](https://linkedin.com/in/mgongob/)
-- [Hacker Noon](https://hackernoon.com/u/micogongob)
-- [Personal Blog](https://micogongob.com)
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
