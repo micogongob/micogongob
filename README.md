@@ -4,13 +4,10 @@
 
 ![My Github status](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=solarized-dark)
 
-<h2>Find me at</h2>
-<ul>
-  <li><a href="https://linkedin.com/in/mgongob/" target="_blank">LinkedIn</a></li>
-  <li><a href="https://hackernoon.com/u/micogongob" target="_blank">Hacker Noon</a></li>
-  <li><a href="https://micogongob.com" target="_blank">Personal Blog</a></li>
-</ul>
-<br>
+### Find Me At
+- [LinkedIn](https://linkedin.com/in/mgongob/)
+- [Hacker Noon](https://hackernoon.com/u/micogongob)
+- [Personal Blog](https://micogongob.com)
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
