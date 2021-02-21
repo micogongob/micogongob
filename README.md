@@ -1,7 +1,9 @@
-## Find me at
-- [LinkedIn](https://linkedin.com/in/mgongob/)
-- [Hacker Noon](https://hackernoon.com/u/micogongob)
-- [Personal Blog](https://micogongob.com)
+<!-- Social links -->
+<ul>
+  <li><a href="https://linkedin.com/in/mgongob/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://hackernoon.com/u/micogongob" target="_blank">Hacker Noon</a></li>
+  <li><a href="https://micogongob.com" target="_blank">Personal Blog</a></li>
+</ul>
 
 ## GitHub Stats
 
