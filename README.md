@@ -1,5 +1,5 @@
 <h2 align="center">
-  Find Me At
+  &#127758;&nbsp;Find Me At
 </h2>
 <p align="center">
 &bull;&nbsp;<a href="https://linkedin.com/in/mgongob/">LinkedIn</a>&nbsp;
