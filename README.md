@@ -1,6 +1,6 @@
-<p align="center">
-  <strong>Find Me At</strong>
-</p>
+<h2 align="center">
+  Find Me At
+</h2>
 <p align="center">
 &bull;&nbsp;<a href="https://linkedin.com/in/mgongob/">LinkedIn</a>&nbsp;
 &bull;&nbsp;<a href="https://hackernoon.com/u/micogongob">Hacker Noon</a>&nbsp;
