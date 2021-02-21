@@ -1,3 +1,9 @@
+## GitHub Stats
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=solarized-dark)
+
+![My Github status](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=solarized-dark)
+
 <h2>Find me at</h2>
 <ul>
   <li><a href="https://linkedin.com/in/mgongob/" target="_blank">LinkedIn</a></li>
@@ -5,12 +11,6 @@
   <li><a href="https://micogongob.com" target="_blank">Personal Blog</a></li>
 </ul>
 <br>
-
-## GitHub Stats
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=solarized-dark)
-
-![My Github status](https://github-readme-stats.vercel.app/api?username=micogongob&count_private=true&show_icons=true&theme=solarized-dark)
 
 <!--
 **micogongob/micogongob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
