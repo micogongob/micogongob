@@ -1,9 +1,13 @@
-## find me at
-- [LinkedIn](https://linkedin.com/in/mgongob/)
-- [Hacker Noon](https://hackernoon.com/u/micogongob)
-- [Personal Blog](https://micogongob.com)
+<p align="center">
+  <strong>Find Me At</strong>
+</p>
+<p align="center">
+&bull;&nbsp;<a href="https://linkedin.com/in/mgongob/">LinkedIn</a>&nbsp;
+&bull;&nbsp;<a href="https://hackernoon.com/u/micogongob">Hacker Noon</a>&nbsp;
+&bull;&nbsp;<a href="https://micogongob.com">Personal Blog</a>&nbsp;
+</p>
 
-## github stats
+## Github Stats
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=solarized-dark)
 
