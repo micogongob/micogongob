@@ -1,9 +1,10 @@
-<!-- Social links -->
+<h2>Find me at</h2>
 <ul>
   <li><a href="https://linkedin.com/in/mgongob/" target="_blank">LinkedIn</a></li>
   <li><a href="https://hackernoon.com/u/micogongob" target="_blank">Hacker Noon</a></li>
   <li><a href="https://micogongob.com" target="_blank">Personal Blog</a></li>
 </ul>
+<br>
 
 ## GitHub Stats
 
