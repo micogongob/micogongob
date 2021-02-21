@@ -1,3 +1,8 @@
+## Find me at
+- [LinkedIn](https://linkedin.com/in/mgongob/)
+- [Hacker Noon](https://hackernoon.com/u/micogongob)
+- [Personal Blog](https://micogongob.com)
+
 ## GitHub Stats
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=micogongob&langs_count=10&theme=graywhite)
