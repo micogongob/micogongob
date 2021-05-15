@@ -2,7 +2,6 @@
   &#127760;&nbsp;Find Me At
 </h2>
 <p align="center">
-&bull;&nbsp;<a href="https://linkedin.com/in/mgongob/">LinkedIn</a>&nbsp;
 &bull;&nbsp;<a href="https://hackernoon.com/u/micogongob">Hacker Noon</a>&nbsp;
 &bull;&nbsp;<a href="https://micogongob.com">Personal Blog</a>&nbsp;
 </p>
